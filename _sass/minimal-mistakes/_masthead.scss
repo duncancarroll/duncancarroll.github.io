@@ -24,6 +24,7 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
+    font-weight: bold;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
@@ -47,9 +48,11 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  font-size: $type-size-5;
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  text-transform: uppercase;
   // z-index: 20;
 }
 
@@ -85,6 +88,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: $type-size-6;
+  text-transform: uppercase;
 
   &--lg {
     padding-right: 2em;

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DUNCAN CARROLL
+title: Duncan Carroll
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Duncan Carroll's website.
@@ -67,14 +67,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/duncancarroll"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/duncancarroll"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/duncancarroll"
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/duncancarroll"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/duncancarroll"
 
 defaults:
   # _posts
@@ -102,3 +102,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  hide: true
