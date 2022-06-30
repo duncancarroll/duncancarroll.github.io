@@ -1,6 +1,8 @@
 ---
-title: "Project 1"
-excerpt: "Lorem ipsum dolor sit amet"
+title: "MagnetAR"
+excerpt: "Real-time VR magnetic field line visualization using your phone's magnetometer."
+date: 2022-06-24
+hidden: true
 header:
   image: /assets/images/banner-large.jpg
   teaser: /assets/images/banner-large.jpg

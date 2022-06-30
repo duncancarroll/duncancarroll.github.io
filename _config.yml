@@ -54,6 +54,7 @@ plugins:
   #- jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 author:
   name   : "Duncan Carroll"
@@ -66,6 +67,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/duncancarroll"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://reddit.com/user/duncanrcarroll"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/duncancarroll"
 
 # footer:
 #   links:

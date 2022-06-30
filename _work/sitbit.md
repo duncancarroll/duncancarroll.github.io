@@ -1,6 +1,8 @@
 ---
-title: "Project 2"
-excerpt: "Lorem ipsum dolor sit amet"
+title: "Sitbit"
+excerpt: "A smart meditation cushion that tracks your sits and interfaces with external APIs via an Arduino."
+date: 2022-06-25
+hidden: true
 header:
   image: /assets/images/banner-large.jpg
   teaser: /assets/images/banner-large.jpg
