@@ -1,75 +1,79 @@
 ---
 title: "Ubik"
-excerpt: "A novel approach to testing the hard problem of consciousness"
+excerpt: "A simple device to test whether consciousness can exert an electrical interface while in an OBE state."
 date: 2022-06-22
 hidden: false
 header:
   teaser: /assets/images/ubik-teaser.jpg
 ---
+In the 1967 Philip K. Dick novel [Ubik](https://en.wikipedia.org/wiki/Ubik), a specialized amplifier is used to communicate with those in the [Bardo](https://en.wikipedia.org/wiki/Bardo_Thodol), the intermediary state of Tibetan Buddhism thought to exist between death and rebirth.
 
-One of the most unusual side-effects of meditation is a phenomena known as astral projection, in which one's consciousness seems to separate from the body and roam around other realms in a fully-lucid state.
+I stumbled onto the Bardo by way of a phenomenon known as astral projection, which [occurred spontaneously](https://www.supermeditate.me/the-astral-express) through meditation.  These experiences heightened my curiosity as to whether my consciousness was actually separating from my body.
 
-I was skeptical of this until I began to experience it myself, after which I became quite curious as to whether consciousness might exist independently of the brain itself.
+Certain details common to AP / OBE experiences suggest that this may be possible to test empirically, and Ubik is my first stab at such an effort.
 
-For this to be possible, some kind of interface would have to exist between the two, allowing them to communicate---but what would such an interface look like?  A distinct phenomenon preceding astral projection may provide clues.
+# Poking The Bardo
 
-# The Vibrational State
-In order to AP, one must first reach a state known as the "vibrational state", which can only be described as being unceremoneously plugged into a high-voltage electrical outlet.  The body, while stock-still on the outside, is gripped by an overpowering vibrational surge which immediately overwhelms the senses and triggers a fight or flight response.  Overcoming this natural fear is an essential part of learning to AP, becaue it is only during this state that one can successfully "separate" from the body.
+If consciousness and the brain are in fact separate, the most obvious interface between the two would be electrical.  If this is the case, it should be possible for an astrally-projected individual at Point A to wiggle some electrons at Point B:
 
-Why would such an unusual state be a universal prerequisite to AP?  If we assume for a moment that consciousness is distinct from the brain's own electrical signals, the vibrational state could be interpreted as the interference pattern created when these two signals---normally coupled---move out of phase with each other.
-
-# Phase Sync
-Phase synchronization is a common phenomenon seen in many systems involving wave mechanics, whether physical or electrical.  It's most often illustrated by ____, and it is utilized in areas such as the electrical grid to synchronize disparate AC sources into a steady 60 Hz.
-
-When two signals are coupled, the dominant signal tends to shift the other into phase with it in a phenomenon known as phase synchronization.  While the two signals are still separate, they appear as one unless shifted out of phase, a process which is resisted by the coupling itself.  Because of this, the brain's own electrical signals could be hiding our second hypothetical "consciousness signal", and we would be unaware of it.
-
-That the brain produces electrical signals is not disputed, and recent research suggests that thalamo-cortical resonance may play a role in consciousness.  Thus we can imagine a scenario in which either some or all of the brain acts as an [oscillator](https://en.wikipedia.org/wiki/Electronic_oscillator), producing a dominant signal which consciousness is coupled to.
+Ubik tests this idea by acting as a "surrogate brain" which an astrally-projected consciousness could (in theory) influence.  Ubik can detect very weak electrical signals (tens of microvolts) at very high impedance, meaning that if consciousness is electrical, and can separate out, Ubik should be able to detect it.
 
 
-# Phase Theory of Consciousness
-Phase-coupled signals inherently share information, providing a bidirectional communication channel necessary for the kind of throughput required for a brain / consciousness interface.  In this model, all sensory input--vision, touch, taste, etc---is caused by the brain's signals pushing against consciousness, and everything that is volitional---movements, speech, actions, etc---are the result of consciousness pushing against the brain.
+# Parts
+Ubik is relatively low-cost ($400 USD) and easy to assemble.  The full BOM is [here](https://docs.google.com/spreadsheets/d/1x1zZBeL7GawCRSwFvTGJBpj9yIvj37LNaCB3L1gBPrs/edit?usp=sharing). It consists of:
 
-This theory explains, among other things, the subjective experience of willpower.  For example, let's say you want to stop yourself from expressing a habit, such as eating a cookie.  To do this, your consciousness must be strong enough to overcome your force of habit, otherwise you "give in" and eat the cookie.  In this model, your desire to eat the cookie is a function of your brain's electrical system, and your willpower must exert an electrical force strong enough to inhibit (presumably through voltage-gated ion channels) the firing of those neurons.
+1. [Voltmeter](https://www.yoctopuce.com/EN/products/usb-electrical-sensors/yocto-millivolt-rx-bnc) + [enclosure](https://www.yoctopuce.com/EN/products/enclosures/yoctobox-long-thick-black-bnc).
+2. Data logging via:
+  - [Yoctopuce Ethernet board](https://www.yoctopuce.com/EN/products/extensions-and-networking/yoctohub-ethernet) OR
+  - Ubik's [Android logging app](https://tbd).  This is a good option for travel, as the phone can provide both power & logging capability.
+3. RF enclosure (Amazon list)
+4. Lab stand & flask (Amazon list)
+5. Common parts & equipment (Amazon list)
 
-Phase Theory also explains other peculiarities of consciousness such as why we can be "knocked out" by a punch---the force simply must be sufficient enough to disrupt the brain's signal, which knocks the two tmeporarily out of phase and eliminates consciousness until sync is regained.
+Note that item 5 contains very common equipment such as a wire stripper, ground cable, etc. so please omit any items you don't need.
 
-# Meditation & Amplitude
+# Assembly
 
-It's always been an enigma why meditation---the simple act of sitting still and focusing---would cause the variety of unusual effects that it does, however in this model it is clear:  Regular, prolonged focus serves to strengthen the "consciousness signal" much like a muscle, ultimately allowing it to become dominant and break out of phase with the brain.
+Fully assembled, Ubik looks like this:
 
-Given that, it's no surprise that astral projection only occurs under conditions where the brain is relatively inactive, such as sleep or deep meditation.  As the weaker signal, consciousness can only compete with the brain once the latter is sufficiently calm, at which point it can shift out of phase.  This naturally creates wave interference between the brain and consciousness, which we experience subjectively as the vibrational state.
+(image)
 
+### 1. Build the enclosure
 
-# Extraordinary Claims
-It's a fine theory, but nothing matters if we can't test it, so how do we do that?
+### 2. Assemble the stand
 
-There are only two ways that we know of to reliably influence the firing of neurons: chemical (via neurotransmitters) and electrical (via voltage-gated ion channels).  Chemical synthesis is too slow to keep pace with the refresh rate of consciousness, therefore the interface is most likely to be electrical.
+### 3. Assemble the electrode
 
-If consciousness both exerts a weak electrical influence and can exist separately from the brain, it should be possible to observe it by creating a "surrogate brain" and interacting with it while in a state of astral projection.
+### 4. Wire the circuit
 
-The key here---and the reason this has never before been tested---is that you need someone who can reliably astral project, otherwise no results would be expected.  While bound to the brain, consciousness cannot affect anything but the brain's own signal, thus a qualified astral projector must first separate out and only then attempt to interface with the device.
+### 5. Prepare the flask
 
+### 6. Set up data logging
 
-
-
-
+### 7. Run a validation test
 
 
 
 
----
+
+# Output
 
 
-# Ubik
-
-Named after a Philip K. Dick novel in which the dead can speak through electronics, Ubik is a sensor designed to act as a "surrogate brain", allowing those in the AP / OBE state to interact with it in a way that would not otherwise be possible.
-
-Functionally, Ubik is very simple---it's an RF-shielded microvoltmeter which logs ambient voltage in a saltwater solution over time.  A typical 8-hour readout looks like this:
-
-[image]()
-
-Ubik is designed to be low-cost and easy to assemble. Most of the parts can be ordered from Amazon and total less than $400 USD (see: parts list), making it practical for anyone around the world to build and test.
 
 
-# Theory
-If consciousness exists outside the brain, it must have an interface through which the two can communicate.  
+
+## Voltmeter
+
+The voltage threshold required for a neuron to fire is about 30 millivolts, so assuming the brain does not act as an amplifier, that's the maximum voltage range we need to look for.
+
+While something like an Arduino could work, that device is hampered by several factors including lack of negative voltage, no shielding, and generally not being designed for high-sensitivity use.
+
+I settled on a sensor built by the Swiss hardware company Yoctopuce, designed for high-sensitivity use such as pH measurement.  It is electrically isolated, accommodates very high impedance (weak signals), and includes a BNC (shielded) connector for our electrode.  It can log a small amount of data onboard or it can be connected to USB or Ethernet (the latter via an additional board.)  While the sampling rate is not as high as I would like, it's low cost and ease of use won the day.
+
+
+
+Our test case is:
+  1. Successfully astral project
+  2. Navigate to Ubik
+  3. Attempt to influence the signal by introducing something non-random such as Morse code.
+
