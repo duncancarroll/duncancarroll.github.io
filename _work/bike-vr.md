@@ -1,6 +1,6 @@
 ---
-title: "Cyclotron"
-excerpt: "A VR-based gaming platform for bikes using a cheap pedometer and pedal stand."
+title: "BikeVR"
+excerpt: "A game platform for biking in VR using a cheap pedometer and pedal stand."
 date: 2022-06-23
 hidden: true
 header:

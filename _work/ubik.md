@@ -1,48 +1,44 @@
 ---
 title: "Ubik"
-excerpt: "A simple device to test whether consciousness can exert an electrical interface while in an OBE state."
+excerpt: "A voltmeter + enclosure designed to detect whether consciousness can exert a weak electrical influence from within an OBE state."
 date: 2022-06-22
 hidden: false
 header:
   teaser: /assets/images/ubik-teaser.jpg
 ---
-In the 1967 Philip K. Dick novel [Ubik](https://en.wikipedia.org/wiki/Ubik), a specialized amplifier is used to communicate with those in the [Bardo](https://en.wikipedia.org/wiki/Bardo_Thodol), the intermediary state of Tibetan Buddhism thought to exist between death and rebirth.
+In the Philip K. Dick novel [Ubik](https://en.wikipedia.org/wiki/Ubik), a specialized amplifier is used to communicate with those in the [Bardo](https://en.wikipedia.org/wiki/Bardo_Thodol), an intermediary state in Tibetan Buddhism thought to exist between death and rebirth.
 
-I stumbled onto the Bardo by way of a phenomenon known as astral projection, which [occurred spontaneously](https://www.supermeditate.me/the-astral-express) through meditation.  These experiences heightened my curiosity as to whether my consciousness was actually separating from my body.
+When I started meditating, I stumbled onto the Bardo [accidentally](https://www.supermeditate.me/the-astral-express) by way of a phenomenon known as astral projection.  The experience heightened my curiosity---was my consciousness actually separating from my body, or did it only seem to?
 
-Certain details common to AP / OBE experiences suggest that this may be possible to test empirically, and Ubik is my first stab at such an effort.
+Details common to AP / OBE experiences suggest a new and intriguing way to test this empirically, and Ubik is my first stab at such a test.
 
-# Poking The Bardo
+# The Theory
+Assuming for a moment consciousness can in fact separate from the brain, there would have to be an interface allowing communication between the two, and that interface is likely to be electrical.
 
-If consciousness and the brain are in fact separate, the most obvious interface between the two would be electrical.  If this is the case, it should be possible for an astrally-projected individual at Point A to wiggle some electrons at Point B:
-
-Ubik tests this idea by acting as a "surrogate brain" which an astrally-projected consciousness could (in theory) influence.  Ubik can detect very weak electrical signals (tens of microvolts) at very high impedance, meaning that if consciousness is electrical, and can separate out, Ubik should be able to detect it.
-
+If an individual can astral-project at Point A and successfully wiggle electrons at Point B---passing a simple message in Morse code, for example---it would demonstrate that the influence of consciousness can extend beyond the brain, opening a new and exciting avenue for further study.
 
 # Parts
-Ubik is relatively low-cost ($400 USD) and easy to assemble.  The full BOM is [here](https://docs.google.com/spreadsheets/d/1x1zZBeL7GawCRSwFvTGJBpj9yIvj37LNaCB3L1gBPrs/edit?usp=sharing). It consists of:
+Ubik is a highly-sensitive voltmeter in an RF-isolated enclosure designed to detect microvolt-level currents in a saltwater solution of similar ionic composition as the brain.  It's relatively low-cost ($400 USD) and easy to assemble.  The full BOM is [here](https://docs.google.com/spreadsheets/d/1x1zZBeL7GawCRSwFvTGJBpj9yIvj37LNaCB3L1gBPrs/edit?usp=sharing). It consists of:
 
 1. [Voltmeter](https://www.yoctopuce.com/EN/products/usb-electrical-sensors/yocto-millivolt-rx-bnc) + [enclosure](https://www.yoctopuce.com/EN/products/enclosures/yoctobox-long-thick-black-bnc).
-2. Data logging via:
+2. Data logging:
   - [Yoctopuce Ethernet board](https://www.yoctopuce.com/EN/products/extensions-and-networking/yoctohub-ethernet) OR
   - Ubik's [Android logging app](https://tbd).  This is a good option for travel, as the phone can provide both power & logging capability.
 3. RF enclosure (Amazon list)
 4. Lab stand & flask (Amazon list)
-5. Common parts & equipment (Amazon list)
+5. Common parts & equipment (You may already own some of these)
 
-Note that item 5 contains very common equipment such as a wire stripper, ground cable, etc. so please omit any items you don't need.
-
-# Assembly
+# Steps to Assembling
 
 Fully assembled, Ubik looks like this:
 
 (image)
 
-### 1. Build the enclosure
+### 1. Assemble the enclosure
 
 ### 2. Assemble the stand
 
-### 3. Assemble the electrode
+### 3. Crimp the electrode
 
 ### 4. Wire the circuit
 
