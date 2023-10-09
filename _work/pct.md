@@ -1,6 +1,6 @@
 ---
 title: "Phase Theory of Consciousness"
-excerpt: "Does consciousness interface with the brain through phase syhcnronization?"
+excerpt: "Does consciousness interface with the brain through phase sychronization?"
 date: 2022-07-15
 hidden: true
 header:
