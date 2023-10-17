@@ -12,12 +12,12 @@ In the 1969 Philip K. Dick novel [Ubik](https://en.wikipedia.org/wiki/Ubik), sci
 
 When I started meditating, I spontaneously [astral projected](https://www.supermeditate.me/the-astral-express), seeming to leave my body and emerge in another world.  I can't properly explain how strange this was, and the "realness" of it left me wanting to find a way to ascertain whether my consciousness was actually leaving my body or not.
 
-Of course, if we wanted to stop at Occam's Razor, we could call it a day and say that these are dream-like or hallucinatory experiences---but where's the fun in that?  Also, in the absence of a complete understanding of consciousness we can't strictly rule out that it isn't.  After all, we can't produce consciousness "in the lab" and poke at it.  As Michael Faraday wrote, "Nothing is too wonderful to be true, provided it is consistent with the laws of nature" and in that spirit we will not make any assumptions and instead rely only on what we can test.
+Of course, if we wanted to stop at Occam's Razor, we could call it a day and say that these are dream-like or hallucinatory experiences---but where's the fun in that?  As Michael Faraday wrote, "Nothing is too wonderful to be true" so in that spirit we will not make any assumptions and rely only on what we can test.
 
-How do we test something like this?
+Ok, but how do we test something like this?
 
 # Astral Clues
-If consciousness and the brain are separate, there'd have to have an interface by which the two communicate--- what might that interface be?
+If consciousness and the brain are separate, there'd have to be an interface by which the two communicate--- so what might that interface be?
 
 One clue is that astral projection is always preceded by a strong sense of internal vibration.  Like, _really_ strong. Like, "Holy f\*ck I'm being electrocuted" strong.  It turns out that this is a universal precondition--- one cannot AP unless in the so-called "vibrational state". Interestingly, one can remain in this state _without_ projecting, in other words it seems to facilitate the process rather than being a side-effect of it. This suggests that consciousness and the brain could interface by phase synchronization.
 
