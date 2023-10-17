@@ -9,7 +9,7 @@ collection: work
 entries_layout: grid
 ---
 ---
-I am a [maker](https://en.wikipedia.org/wiki/Maker_culture), [meditator](https://www.supermeditate.me/meditations-missing-manual), and software engineer based in the SF Bay Area.
+I am a [maker](https://en.wikipedia.org/wiki/Maker_culture), [meditator](https://www.supermeditate.me), and software engineer based in the SF Bay Area.
 
 # Projects
 ---
