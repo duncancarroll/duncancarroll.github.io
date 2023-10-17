@@ -1,7 +1,7 @@
 ---
 title: "Ubik"
 excerpt: "An ongoing study to determine if consciousness can exert a weak electrical influence in the OBE state"
-date: 2022-06-22
+date: 2023-10-11
 hidden: false
 header:
   teaser: /assets/images/ubik-teaser.jpg
