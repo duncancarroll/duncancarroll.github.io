@@ -78,7 +78,7 @@ Now all we need to do is meditate frequently enough that we astral project. Some
 So far I've had two APs with Ubik in place, but one was aborted due to my alarm clock going off, and the second time I successfully separated but I'd placed the sensor across the room and couldn't get to it in time.
 
 # Perfectly Reasonable Questions
-- *If consciousness is separate from the brain, why does anesthetizing the brain eliminate it?*  The only explanation I have is that in the non-OBE state, consciousness is in fact "trapped" within the body, and because the brain's signal is normally the stronger of the two, when it goes down it takes consciousness down with it.
+- *If consciousness is separate from the brain, why does anesthetizing the brain eliminate it?*  The only explanation I have is that in the non-OBE state, consciousness is "trapped" or otherwise fully encapsulated by the body, and because the brain's signal is normally the stronger of the two, when it goes down it takes consciousness with it.
 
 - *Both Buddhism and science tell us that every action is the result of a deterministic causal chain, and as a result consciousness is an illusion.*  I don't know if this is true or not, but it doesn't invalidate the model because we're not saying anything about consciousness except that it can separate from the body.  This theory doesn't explain qualia or free will, so the inviolable causal chain could still exist and this would just be another part of it.
 
