@@ -12,7 +12,7 @@ In the 1969 Philip K. Dick novel [Ubik](https://en.wikipedia.org/wiki/Ubik), sci
 
 When I started meditating, I spontaneously [astral projected](https://www.supermeditate.me/the-astral-express), seeming to leave my body and emerge in another world.  I can't properly explain how strange this was, and the "realness" of it left me wanting to find a way to ascertain whether my consciousness was actually leaving my body or not.
 
-Of course, if we wanted to stop at Occam's Razor, we could call it a day and say that these are dream-like or hallucinatory experiences---but where's the fun in that?  As Michael Faraday wrote, "Nothing is too wonderful to be true" so in that spirit we will not make any assumptions and instead rely on what we can test.
+If we wanted to stop at Occam's Razor, we could call it a day and say that these are dream-like or hallucinatory experiences---but where's the fun in that?  As Michael Faraday wrote, "Nothing is too wonderful to be true" so in that spirit we will not make any assumptions and instead rely on what we can test.
 
 Ok, but how do we test something like this?
 
