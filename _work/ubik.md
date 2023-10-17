@@ -34,7 +34,7 @@ The model also explains the question of why meditation---the act of sitting stil
 Could the linkage between these two systems simply be electrical?  While there's no reason to assume this (maybe it's magnetic?  Chemical?  Or if you're Stuart Hameroff, scale-independent quantum oscillatory), electrical sensors are cheap so we'll start there.
 
 # Testing
-While [numerous tests](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918960/) have been conducted on subjects in an OBE state, they are usually focused on body and brain activity, but we would not expect a major difference, after all, in our model the "car" is still idling, it's just that the driver has left the vehicle.
+While [numerous tests](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918960/) have been conducted on subjects in an OBE state, they are usually focused on body and brain activity, but we would not expect a major difference there, after all, in our model the "car" is still idling, it's just that the driver has left the vehicle.
 
 Instead, we will take a different approach and measure the electrical potential of a nearby object, a "surrogate brain" (in this case a flask of saltwater), while a subject in an OBE state attempts to manipulate it and pass a message via Morse code.
 
