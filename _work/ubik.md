@@ -54,7 +54,7 @@ The sensor is not complicated.  A voltmeter with 5uV resolution is placed in an 
 
 # Process
 - A Typescript app is used to connect to the sensor, retreive data, and log it to a CSV (and optionally InfluxDB.)
-- 10 mL distilled water is mixed thoroughly with 1/4 tsp lab-grade NaCl.
+- 10 mL distilled water is mixed thoroughly with 1/8 tsp lab-grade NaCl.
 - The sensor is tested by introducing a sine wave into the solution and verifying the output.
 - Normal output shows stable voltage with long-period fluctuations over a 24-hour period of +/-20mV.
 
